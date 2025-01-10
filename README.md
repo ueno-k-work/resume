@@ -23,7 +23,8 @@ AI開発プラットフォーム「FastLabel」の開発として、新規機能
 ##### 言語
 TypeScript / JavaScript / Python
 ##### フレームワーク
-React / MUI / NodeJS / ExpressJS / TypeORM / CDK
+React / MUI / NodeJS / ExpressJS / TypeORM / CDK /  
+Jest / Vitest / React Testing Library / Playwright 
 ##### 環境・ミドルウェア
 AWS
 ##### データベース
@@ -50,7 +51,8 @@ ReactやServerlessフレームワーク・AWSを用いた開発をリード。
 TypeScript / JavaScript / Java 
 ##### フレームワーク
 React / Vue / MUI / jQuery / Google Closure Library / Apache Velocity /  
-NodeJS / Serverless Framework / NestJS / Spring
+NodeJS / Serverless Framework / NestJS / Spring /  
+JUnit / Jest / Cypress 
 ##### 環境・ミドルウェア
 AWS / Windows Server/ Websphere Application Server / WebLogic / Tomcat
 ##### 認証基盤
