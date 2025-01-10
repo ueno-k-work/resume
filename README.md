@@ -86,7 +86,7 @@ Slack / GitLab / Redmine / Trac / maven
 ### Developers eXperience Day 2023 
 [![DXD2023](http://img.youtube.com/vi/JLJl9_-q20s/0.jpg)](https://www.youtube.com/watch?v=JLJl9_-q20s)
 ### Developers Summit 2023 KANSAI
-[![DevSumiKANSAI2023](https://cz-cdn.shoeisha.jp/static/images/article/18405/18405_ogp.jpg)](https://codezine.jp/article/detail/18405)
+[<img src="https://cz-cdn.shoeisha.jp/static/images/article/18405/18405_ogp.jpg" width= "480px" >](https://codezine.jp/article/detail/18405)
 ### Forkwell Library #35 プロを目指す人のためのTypeScript入門
 [![Forkwell Library #35](http://img.youtube.com/vi/yoTI_1t7VAM/0.jpg)](https://www.youtube.com/watch?v=yoTI_1t7VAM)
 ### Forkwell Library #39 実践TypeScript
