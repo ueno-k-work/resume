@@ -2,9 +2,9 @@
 
 ## 基本データ
 氏名: 植野 晃司  
-X: [https://x.com/ueno_k0108](https://x.com/ueno_k0108){:target="_blank"}  
-Qiita: [https://qiita.com/uenok0108](https://qiita.com/uenok0108){:target="_blank"}  
-Zenn: [https://zenn.dev/uenok0108](https://zenn.dev/uenok0108){:target="_blank"}  
+X: https://x.com/ueno_k0108  
+Qiita: https://qiita.com/uenok0108  
+Zenn: https://zenn.dev/uenok0108  
 
 ## 職務要約
 |期間|所属|職責|
@@ -100,18 +100,18 @@ Slack / GitLab / Redmine / Trac / maven
 
 ## イベント登壇 (アーカイブ・レポート)
 ### Developers eXperience Day 2023 
-[![DXD2023](http://img.youtube.com/vi/JLJl9_-q20s/0.jpg)](https://www.youtube.com/watch?v=JLJl9_-q20s){:target="_blank"}
+[![DXD2023](http://img.youtube.com/vi/JLJl9_-q20s/0.jpg)](https://www.youtube.com/watch?v=JLJl9_-q20s)
 ### Developers Summit 2023 KANSAI
-[<img src="https://cz-cdn.shoeisha.jp/static/images/article/18405/18405_ogp.jpg" width= "480px" >](https://codezine.jp/article/detail/18405){:target="_blank"}
+[<img src="https://cz-cdn.shoeisha.jp/static/images/article/18405/18405_ogp.jpg" width= "480px" >](https://codezine.jp/article/detail/18405)
 ### Forkwell Library #35 プロを目指す人のためのTypeScript入門
-[![Forkwell Library #35](http://img.youtube.com/vi/yoTI_1t7VAM/0.jpg)](https://www.youtube.com/watch?v=yoTI_1t7VAM){:target="_blank"}
+[![Forkwell Library #35](http://img.youtube.com/vi/yoTI_1t7VAM/0.jpg)](https://www.youtube.com/watch?v=yoTI_1t7VAM)
 ### Forkwell Library #39 実践TypeScript
-[![Forkwell Library #39](http://img.youtube.com/vi/s44jk8Mdc9s/0.jpg)](https://www.youtube.com/watch?v=s44jk8Mdc9s){:target="_blank"}
+[![Forkwell Library #39](http://img.youtube.com/vi/s44jk8Mdc9s/0.jpg)](https://www.youtube.com/watch?v=s44jk8Mdc9s)
 
 ## エンジニアコミュニティ活動
-[AWS Startup Community](https://aws-startup-community.connpass.com/){:target="_blank"}の大阪運営メンバーとして活動中。
+[AWS Startup Community](https://aws-startup-community.connpass.com/)の大阪運営メンバーとして活動中。
 
 ### 過去の開催イベント
-- [AWS Startup Meetup 大阪 Vol.4 - AWS re:Invent 生成AI系振り返り ＆ 事例から学ぶ組み込み方](https://aws-startup-community.connpass.com/event/340559/){:target="_blank"}
-- [AWS Startup Meetup 大阪 Vol.3 - 関西企業・スタートアップの採用 ＆ 働き方トーク](https://aws-startup-community.connpass.com/event/335218/){:target="_blank"}
-- [AWS Startup Meetup 大阪 ReBoot](https://aws-startup-community.connpass.com/event/323403/){:target="_blank"}
+- [AWS Startup Meetup 大阪 Vol.4 - AWS re:Invent 生成AI系振り返り ＆ 事例から学ぶ組み込み方](https://aws-startup-community.connpass.com/event/340559/)
+- [AWS Startup Meetup 大阪 Vol.3 - 関西企業・スタートアップの採用 ＆ 働き方トーク](https://aws-startup-community.connpass.com/event/335218/)
+- [AWS Startup Meetup 大阪 ReBoot](https://aws-startup-community.connpass.com/event/323403/)
