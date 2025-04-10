@@ -9,11 +9,31 @@ Zenn: https://zenn.dev/uenok0108
 ## 職務要約
 |期間|所属|職責|
 |----|----|----|
+|2025年1月〜現職|株式会社Works Human Intelligence|シニアエンジニア|
 |2022年8月〜2024年12月|FastLabel株式会社|VPoE / シニアテックリード|
 |2019年8月〜2022年7月|株式会社Works Human Intelligence|シニアエンジニア|
 |2010年4月〜2019年7月|株式会社Works Applications|EM / シニアエンジニア|
 
 ## 職務経歴
+### 株式会社Works Human Intelligence (2025年1月〜現職)
+シニアエンジニアとして人事・給与領域の業務ソフトウェア開発・保守に従事。  
+モダンスタックによるPoCなど技術領域のリードを担当。
+
+#### 技術スタック
+##### 言語
+TypeScript / JavaScript / Java
+##### フレームワーク
+React / emotion / NodeJS / Vite 
+Vitest / React Testing Library  
+##### 環境・ミドルウェア
+AWS
+##### データベース
+Oracle
+##### 認証基盤
+SAML / LDAP / Active Directory
+##### ツール
+Slack / GitHub / GitHub Copilot / pnpm / Docker
+
 ### FastLabel株式会社 (2022年8月〜2024年12月)
 AI開発プラットフォーム「FastLabel」の開発として、新規機能やデスクトップツールの開発に従事。  
 また2023年度にはVPoEとして開発全般を統括。  
@@ -34,12 +54,6 @@ Auth0
 ##### ツール
 Slack / GitHub / yarn / npm / pypi / Docker
 
-#### 公開エントリ
-- [Forkwell Libraryに登壇してきました！（アーカイブ動画あり）](https://note.com/fastlabel/n/n23bbfd0e118a)
-- [Developers Summit 2023 KANSAIに登壇してきました！](https://note.com/fastlabel/n/n48e1d9ce07e3)
-- [エンジニア文化祭 2023 でVP of Engineerの植野が登壇](https://note.com/fastlabel/n/n8b76de9b3551)
-- [エンジニアリングマネージャーとしての仕事内容をご紹介します！](https://note.com/fastlabel/n/nb6395f4071f5)
-- [“入るなら今しかない” メガベンチャーで働くエンジニアリングマネージャーがFastLabelへ入社を決めた理由。](https://note.com/fastlabel/n/nfe6629f79fa4)
 ### 株式会社Works Human Intelligence (2019年8月〜2022年7月)
 主にシニアエンジニアとして人事領域の業務ソフトウェア開発・保守に従事。  
 既存製品だけでなく新規SaaS開発の主担当として、  
@@ -93,3 +107,11 @@ Slack / GitLab / Redmine / Trac / maven
 [![Forkwell Library #35](http://img.youtube.com/vi/yoTI_1t7VAM/0.jpg)](https://www.youtube.com/watch?v=yoTI_1t7VAM)
 ### Forkwell Library #39 実践TypeScript
 [![Forkwell Library #39](http://img.youtube.com/vi/s44jk8Mdc9s/0.jpg)](https://www.youtube.com/watch?v=s44jk8Mdc9s)
+
+## エンジニアコミュニティ活動
+[AWS Startup Community](https://aws-startup-community.connpass.com/)の大阪運営メンバーとして活動中。
+
+### 過去の開催イベント
+- [AWS Startup Meetup 大阪 Vol.4 - AWS re:Invent 生成AI系振り返り ＆ 事例から学ぶ組み込み方](https://aws-startup-community.connpass.com/event/340559/)
+- [AWS Startup Meetup 大阪 Vol.3 - 関西企業・スタートアップの採用 ＆ 働き方トーク](https://aws-startup-community.connpass.com/event/335218/)
+- [AWS Startup Meetup 大阪 ReBoot](https://aws-startup-community.connpass.com/event/323403/)
